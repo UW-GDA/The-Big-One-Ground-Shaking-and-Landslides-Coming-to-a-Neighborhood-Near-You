@@ -58,17 +58,17 @@ The anticipated steps for this project include:
 N/A yet
 
 ## References
-Nowicki Jessee, M. A., Hamburger, M. W., Allstadt, K., Wald, D. J., Robeson, S. M., Tanyas, H., et al. (2018). A global empirical model for near-real-time assessment of seismically induced landslides. Journal of Geophysical Research: Earth Surface, 123, 1835–1859. https://doi.org/10.1029/2017JF004494\
+Nowicki Jessee, M. A., Hamburger, M. W., Allstadt, K., Wald, D. J., Robeson, S. M., Tanyas, H., et al. (2018). A global empirical model for near-real-time assessment of seismically induced landslides. Journal of Geophysical Research: Earth Surface, 123, 1835–1859. https://doi.org/10.1029/2017JF004494 
 
-Global multi-resolution terrain elevation data 2010 (GMTED2010); 2011; OFR; 2011-1073; Danielson, Jeffrey J.; Gesch, Dean B. \
+Global multi-resolution terrain elevation data 2010 (GMTED2010); 2011; OFR; 2011-1073; Danielson, Jeffrey J.; Gesch, Dean B. 
 
-Worden, C.B., E. M. Thompson, M. Hearne, and D.J. Wald (2020). ShakeMap Manual Online: technical manual, user’s guide, and software guide, U. S. Geological Survey. http://usgs.github.io/shakemap/. DOI: https://doi.org/10.5066/F7D21VPQ. \
+Worden, C.B., E. M. Thompson, M. Hearne, and D.J. Wald (2020). ShakeMap Manual Online: technical manual, user’s guide, and software guide, U. S. Geological Survey. http://usgs.github.io/shakemap/. DOI: https://doi.org/10.5066/F7D21VPQ. 
 
-Hartmann, Jörg; Moosdorf, Nils (2012): Global Lithological Map Database v1.0 (gridded to 0.5° spatial resolution). PANGAEA, https://doi.org/10.1594/PANGAEA.788537, Supplement to: Hartmann, Jens; Moosdorf, Nils (2012): The new global lithological map database GLiM: A representation of rock properties at the Earth surface. Geochemistry, Geophysics, Geosystems, 13, Q12004, https://doi.org/10.1029/2012GC004370 \
+Hartmann, Jörg; Moosdorf, Nils (2012): Global Lithological Map Database v1.0 (gridded to 0.5° spatial resolution). PANGAEA, https://doi.org/10.1594/PANGAEA.788537, Supplement to: Hartmann, Jens; Moosdorf, Nils (2012): The new global lithological map database GLiM: A representation of rock properties at the Earth surface. Geochemistry, Geophysics, Geosystems, 13, Q12004, https://doi.org/10.1029/2012GC004370 
 
-**Look in properties of downloaded raster file for globcover!** \
+**Look in properties of downloaded raster file for globcover!** 
 
-Esri. "World Land Cover ESA 2009". Retrieved from https://www.arcgis.com/home/item.html?id=77864b7ae87a49e7984998e63d768c77  (February 16, 2021). \
+Esri. "World Land Cover ESA 2009". Retrieved from https://www.arcgis.com/home/item.html?id=77864b7ae87a49e7984998e63d768c77  (February 16, 2021). 
 
 Verdin, K.L., 2017, Hydrologic Derivatives for Modeling and Applications (HDMA) database: U.S. Geological Survey data release, https://doi.org/10.5066/F7S180ZP.
 
