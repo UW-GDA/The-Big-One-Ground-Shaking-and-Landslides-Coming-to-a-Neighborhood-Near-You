@@ -26,17 +26,17 @@ Compound Topographic Index (CTI) HDMA database
 
 ## Tools & Packages
 Rasterio
-*	https://rasterio.readthedocs.io/en/latest/api/rasterio.html
-Numpy
-*	https://numpy.org/
-Pandas
-*	https://pandas.pydata.org/
-GeoPandas
-*	https://geopandas.org/
-Shapely
-*	https://pypi.org/project/Shapely/
-Fiona
-*	https://pypi.org/project/Fiona/
+ https://rasterio.readthedocs.io/en/latest/api/rasterio.html
+*Numpy
+ https://numpy.org/
+*Pandas
+ https://pandas.pydata.org/
+*GeoPandas
+ https://geopandas.org/
+*Shapely
+ https://pypi.org/project/Shapely/
+*Fiona
+ https://pypi.org/project/Fiona/
 
 ## Planned Methodology
 The anticipated steps for this project include:
