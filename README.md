@@ -14,15 +14,15 @@ With several known crustal faults and the looming Cascadia Subduction Zone, the 
 
 ## Datasets
 Elevation data (GMTED2010) to compute slope
-*	https://topotools.cr.usgs.gov/gmted_viewer/viewer.htm
+-https://topotools.cr.usgs.gov/gmted_viewer/viewer.htm
 PGV data depends on earthquake event chosen
-*	Link to chosen earthquake events shakemap
+-Link to chosen earthquake events shakemap
 Lithology data (GLIM – Global Lithological Map Database)
-*	https://www.geo.uni-hamburg.de/de/geologie/forschung/geochemie/glim.html
+-https://www.geo.uni-hamburg.de/de/geologie/forschung/geochemie/glim.html
 Landcover data (GlobCover 2009 dataset)
-*	World Land Cover ESA 2009 (Mature Support) (arcgis.com)
+-World Land Cover ESA 2009 (Mature Support) (arcgis.com)
 Compound Topographic Index (CTI) HDMA database
-*	https://www.sciencebase.gov/catalog/item/591b53bae4b0a7fdb43c8d1d
+-https://www.sciencebase.gov/catalog/item/591b53bae4b0a7fdb43c8d1d
 
 ## Tools & Packages
 1. Rasterio
