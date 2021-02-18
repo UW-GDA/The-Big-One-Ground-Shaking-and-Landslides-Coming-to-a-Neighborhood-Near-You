@@ -26,17 +26,17 @@ With several known crustal faults and the looming Cascadia Subduction Zone, the 
 
 ## Tools & Packages
 1. Rasterio
-   -https://rasterio.readthedocs.io/en/latest/api/rasterio.html
+   - https://rasterio.readthedocs.io/en/latest/api/rasterio.html
 2. Numpy
-   -https://numpy.org/
+   - https://numpy.org/
 3. Pandas
-   -https://pandas.pydata.org/
+   - https://pandas.pydata.org/
 4. GeoPandas
-   -https://geopandas.org/
+   - https://geopandas.org/
 5. Shapely
-   -https://pypi.org/project/Shapely/
+   - https://pypi.org/project/Shapely/
 6. Fiona
-   -https://pypi.org/project/Fiona/
+   - https://pypi.org/project/Fiona/
 
 ## Planned Methodology
 The anticipated steps for this project include:
