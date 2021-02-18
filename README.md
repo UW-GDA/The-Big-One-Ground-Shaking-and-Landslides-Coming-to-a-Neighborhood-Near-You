@@ -1,20 +1,20 @@
 # Examining A Global Model for Rapid Assessment of Seismic Landslide Instability
 by: Ryan Rasanen & Brek Chiles,
 Winter 2021
-# Summary
+## Summary
 
-# Background
+## Background
 
-# Problem Statement & Objectives
+## Problem Statement & Objectives
 
-# Datasets
+## Datasets
 
-# Tools & Packages
+## Tools & Packages
 
-# Planned Methodology
+## Planned Methodology
 
-# Expected Outcomes
+## Expected Outcomes
 
-# Other Relevant Information
+## Other Relevant Information
 
-# References
+## References
