@@ -13,16 +13,16 @@ With several known crustal faults and the looming Cascadia Subduction Zone, the 
 4. analyze which major roadways have the highest susceptibility to landslides and are most likely to experience a landslide during a given earthquake event.
 
 ## Datasets
-Elevation data (GMTED2010) to compute slope
--https://topotools.cr.usgs.gov/gmted_viewer/viewer.htm
-PGV data depends on earthquake event chosen
--Link to chosen earthquake events shakemap
-Lithology data (GLIM – Global Lithological Map Database)
--https://www.geo.uni-hamburg.de/de/geologie/forschung/geochemie/glim.html
-Landcover data (GlobCover 2009 dataset)
--World Land Cover ESA 2009 (Mature Support) (arcgis.com)
-Compound Topographic Index (CTI) HDMA database
--https://www.sciencebase.gov/catalog/item/591b53bae4b0a7fdb43c8d1d
+1. Elevation data (GMTED2010) to compute slope
+   - https://topotools.cr.usgs.gov/gmted_viewer/viewer.htm
+2. PGV data depends on earthquake event chosen
+   - Link to chosen earthquake events shakemap
+3. Lithology data (GLIM – Global Lithological Map Database)
+   - https://www.geo.uni-hamburg.de/de/geologie/forschung/geochemie/glim.html
+4. Landcover data (GlobCover 2009 dataset)
+   - World Land Cover ESA 2009 (Mature Support) (arcgis.com)
+5. Compound Topographic Index (CTI) HDMA database
+   - https://www.sciencebase.gov/catalog/item/591b53bae4b0a7fdb43c8d1d
 
 ## Tools & Packages
 1. Rasterio
