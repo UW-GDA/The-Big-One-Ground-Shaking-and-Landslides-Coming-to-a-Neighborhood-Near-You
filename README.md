@@ -2,7 +2,7 @@
 **by: Ryan Rasanen & Brek Chiles, Winter 2021**
 
 ## Summary
-The first part of the project will be computing a probability of landslide raster using widely available geospatial parameters and utilizing the USGS ground motions from the 2001 Nisqually earthquake.  The second part of our project consists of examining the probability of landslide results and determining: (1) how much of the Puget Lowland is at high risk of landslides for an earthquake similar to the Nisqually event, (2) calculating the areal percentage of each raster cell expected to have landslide occurrence, (3) analyze a major roadways shapefile and see which roadways intersect with high probability areas, (4) calculating a pseudo landslide susceptibility map for the Puget Lowland by assigning a constant PGV to the Nowicki et al. (2018) model.
+The first part of the project will be computing a probability of landslide raster using widely available geospatial parameters and utilizing **predicted ground motions for a Cascadia Subduction Zone (CSZ) earthquake**.  The second part of our project consists of examining the probability of landslide results and determining: **(1) how much of the Puget Lowland is at high risk of landslides for a CSZ earthquake**, (2) calculating the areal percentage of each raster cell expected to have landslide occurrence, (3) analyze a major roadways shapefile and see which roadways intersect with high probability areas, (4) calculating a pseudo landslide susceptibility map for the Puget Lowland by assigning a constant PGV to the Nowicki et al. (2018) model.
 
 ## Background
 The Nowicki et al. (2018) model was created to offer near real time assessment of the probability of landslides following an earthquake event. The model can be used by emergency crews to determine the best routes and modes of transportation to reach communities impacted by landslides events. The model can also be useful in determining a general idea of areas at higher risk of landslides. The downside to this model is that you’re using geospatial information to determine landslide probability and do not realize the benefits of using actual geotechnical data. However, the use of global geospatial parameters allows the model to be used anywhere in the world (not limited to the areas where geotechnical information is available).
@@ -47,7 +47,7 @@ The anticipated steps for this project include:
 1. Download and obtain the five rasters needed to compute the probability of landslides
    - If the raster is not available convert the feature or shapefile to a raster
 2. Load each of the 5 rasters into python
-3. Project each of the rasters into the desired crs (e.g., if Nisqually EQ then UTM Zone 10N)
+3. Project each of the rasters into the desired crs (**e.g., if CSZ EQ then UTM Zone 10N**)
 4. Compute the probability of landslide raster from the five input rasters and model coefficients over the extent of the input ground motion raster in python
 5. Create subplots of each input raster and the computed probability of landslide raster in python
 6. Compute the landslide susceptibility by rerunning the model with a constant PGV input
@@ -59,7 +59,7 @@ The anticipated steps for this project include:
 3. Identification of major road networks that are most likely to be impacted by landslides
 
 ## Other Relevant Information
-* UW news article showing 50 simulations for a M9 Cascadia earthquake
+* University of Washington news article showing 50 simulations for a M9 Cascadia earthquake
    * https://www.washington.edu/news/2017/10/23/50-simulations-of-the-really-big-one-show-how-a-9-0-cascadia-earthquake-could-play-out/ 
    
 * Check out the Washington DNR's Geologic Information Portal to see Cascadia earthquake scenarios and mapped landslides
