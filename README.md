@@ -1,7 +1,9 @@
-# Examining A Global Model for Rapid Assessment of Seismic Landslide Instability
+# The Big One - Ground Shaking & Landslides Coming to a Neighborhood Near You
 **by: Ryan Rasanen & Brek Chiles, Winter 2021**
+
 ## Summary
 The first part of the project will be computing a probability of landslide raster using widely available geospatial parameters and utilizing the USGS ground motions from the 2001 Nisqually earthquake.  The second part of our project consists of examining the probability of landslide results and determining: (1) how much of the Puget Lowland is at high risk of landslides for an earthquake similar to the Nisqually event, (2) calculating the areal percentage of each raster cell expected to have landslide occurrence, (3) analyze a major roadways shapefile and see which roadways intersect with high probability areas, (4) calculating a pseudo landslide susceptibility map for the Puget Lowland by assigning a constant PGV to the Nowicki et al. (2018) model.
+
 ## Background
 The Nowicki et al. (2018) model was created to offer near real time assessment of the probability of landslides following an earthquake event. The model can be used by emergency crews to determine the best routes and modes of transportation to reach communities impacted by landslides events. The model can also be useful in determining a general idea of areas at higher risk of landslides. The downside to this model is that you’re using geospatial information to determine landslide probability and do not realize the benefits of using actual geotechnical data. However, the use of global geospatial parameters allows the model to be used anywhere in the world (not limited to the areas where geotechnical information is available).
 
@@ -57,7 +59,19 @@ The anticipated steps for this project include:
 3. Identification of major road networks that are most likely to be impacted by landslides
 
 ## Other Relevant Information
-N/A yet
+* UW news article showing 50 simulations for a M9 Cascadia earthquake
+   * https://www.washington.edu/news/2017/10/23/50-simulations-of-the-really-big-one-show-how-a-9-0-cascadia-earthquake-could-play-out/ 
+   
+* Check out the Washington DNR's Geologic Information Portal to see Cascadia earthquake scenarios and mapped landslides
+  * https://geologyportal.dnr.wa.gov/2d-view#wigm?-13814363,-13319051,5858815,6155391?Landslides,Earthquakes,Earthquake,Ground_Response,Cascadia_Seismic_Scenario 
+
+* An article by the New Yorker responses by the Seattle Times
+  * https://www.newyorker.com/magazine/2015/07/20/the-really-big-one
+  * https://www.seattletimes.com/seattle-news/science/the-really-big-one-get-ready-now-quake-experts-advise/
+  * https://www.seattletimes.com/seattle-news/environment/if-you-think-new-yorkers-earthquake-story-is-scary-better-read-this/
+  
+* An article by the Seattle Times that discusses the 1700 Cascadia earthquake
+  * https://www.seattletimes.com/seattle-news/northwest/on-this-day-in-1700-the-really-big-one-a-magnitude-9-0-earthquake-hit-western-washington/#:~:text=Weather-,In%201700%2C%20the%20%27really%20big%20one%27%20%E2%80%94%20a%20magnitude,9.0%20earthquake%20%E2%80%94%20hit%20Western%20Washington&text=Called%20Cascadia%2C%20the%20magnitude%209.0,across%20the%20ocean%20to%20Japan. 
 
 ## References
 Nowicki Jessee, M. A., Hamburger, M. W., Allstadt, K., Wald, D. J., Robeson, S. M., Tanyas, H., et al. (2018). A global empirical model for near-real-time assessment of seismically induced landslides. Journal of Geophysical Research: Earth Surface, 123, 1835–1859. https://doi.org/10.1029/2017JF004494 
