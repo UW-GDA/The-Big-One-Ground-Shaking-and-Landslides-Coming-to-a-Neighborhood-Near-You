@@ -37,6 +37,8 @@ With several known crustal faults and the looming Cascadia Subduction Zone, the 
    - https://pypi.org/project/Shapely/
 6. Fiona
    - https://pypi.org/project/Fiona/
+7. GDAL
+   - https://gdal.org/
 
 ## Planned Methodology
 The anticipated steps for this project include:
@@ -65,8 +67,6 @@ Global multi-resolution terrain elevation data 2010 (GMTED2010); 2011; OFR; 2011
 Worden, C.B., E. M. Thompson, M. Hearne, and D.J. Wald (2020). ShakeMap Manual Online: technical manual, user’s guide, and software guide, U. S. Geological Survey. http://usgs.github.io/shakemap/. DOI: https://doi.org/10.5066/F7D21VPQ. 
 
 Hartmann, Jörg; Moosdorf, Nils (2012): Global Lithological Map Database v1.0 (gridded to 0.5° spatial resolution). PANGAEA, https://doi.org/10.1594/PANGAEA.788537, Supplement to: Hartmann, Jens; Moosdorf, Nils (2012): The new global lithological map database GLiM: A representation of rock properties at the Earth surface. Geochemistry, Geophysics, Geosystems, 13, Q12004, https://doi.org/10.1029/2012GC004370 
-
-**Look in properties of downloaded raster file for globcover!** 
 
 Esri. "World Land Cover ESA 2009". Retrieved from https://www.arcgis.com/home/item.html?id=77864b7ae87a49e7984998e63d768c77  (February 16, 2021). 
 
