@@ -1,4 +1,4 @@
-# The Big One - Ground Shaking & Landslides Coming to A Neighborhood Near You
+# The Big One - Ground Shaking & Landslides Coming to a Neighborhood Near You
 **by: Ryan Rasanen & Brek Chiles, Winter 2021**
 
 ## Summary
